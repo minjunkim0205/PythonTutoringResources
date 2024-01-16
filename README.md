@@ -2,7 +2,7 @@
 
 ## Preview
 
-![Preview]()
+![Preview](Preview.png)
 
 ## Introduction
 
