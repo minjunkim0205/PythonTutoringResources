@@ -21,11 +21,12 @@
     * 자료형_상(숫자, 문자열, 불리언)
 
 * **[Day #02](Day02/contents.md)**
-    * 제어문(if, while)
+    * 조건문(if)
+    * 반복문(while)
 
 * **[Day #03](Day03/contents.md)**
     * 자료형_하(딕셔너리, 리스트, 집합)
-    * 제어문(for)
+    * 반복문(for)
 
 * **[Day #04](Day04/contents.md)**
     * 함수_하(사용자, 내장;입출력)
